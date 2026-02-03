@@ -1,6 +1,7 @@
 You can dawnload this game from:
 
-[itch.io](https://danpl2006.itch.io/ball-vs-squares) 
+[itch.io](https://danpl2006.itch.io/ball-vs-squares)
+
 [Github](https://github.com/Danpl2006/Ball-vs.-Squares/releases/tag/v1.0)
 
 English Description
